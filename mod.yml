@@ -7,3 +7,7 @@ assets:
   method: copy
   source:
   - name: obj/P_LK100.mdlx
+- name: obj/P_LK100.a.fm
+  method: copy
+  source:
+  - name: obj/P_LK100.a.fm
