@@ -1,0 +1,9 @@
+name: Model Stuff
+description: Credit to DA for the mod
+assets:
+
+#obj
+- name: obj/P_LK100.mdlx
+  method: copy
+  source:
+  - name: obj/P_LK100.mdlx
